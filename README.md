@@ -1,6 +1,9 @@
 # Conversion-de-bici-electrica-
 Con telemetría XD
 
+![biciEcu](https://github.com/user-attachments/assets/4ecd4367-8623-4325-86cd-83c504dbf753)
+
+
 # BLDC controller pinout
 
 ![image](https://github.com/Ineso1/Conversion-de-bici-electrica-/assets/84602829/58cb6a39-c17d-4182-9a79-42717728d032)
